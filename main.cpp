@@ -1,3 +1,8 @@
+/**
+ *
+ * @autho Andre
+ */
+
 #include <QtGui/QApplication>
 #include "mainwindow.h"
 
