@@ -1,3 +1,8 @@
+/**
+ *
+ * @autho Andre
+ */
+
 #include "minmax.h"
 
 MinMax::MinMax()
